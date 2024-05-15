@@ -1,47 +1,28 @@
-# Car-Rental-Java-Project
-This system offers a seamless and efficient solution for managing car rentals. It is designed to be user-friendly for both customers and administrators, ensuring smooth operations from car rental to return.
+# Car Rental System
 
-# Key Features
-Car Management: Add and manage cars with specific details like car ID, brand, model, and daily rental price.
+Welcome to the **Car Rental System** project! This system offers a seamless and efficient solution for managing car rentals. It is designed to be user-friendly for both customers and administrators, ensuring smooth operations from car rental to return.
 
-Customer Management: Automatically create and manage customer profiles when new rentals are initiated.
+## Key Features
 
-Renting Cars: Customers can easily rent available cars for a specified number of days, with real-time price calculation.  
+- **Car Management**: Add and manage cars with specific details like car ID, brand, model, and daily rental price.
+- **Customer Management**: Automatically create and manage customer profiles when new rentals are initiated.
+- **Renting Cars**: Customers can easily rent available cars for a specified number of days, with real-time price calculation.
+- **Returning Cars**: Simplified process for customers to return rented cars, with automatic updates to car availability.
+- **Detailed Rental Information**: Display comprehensive rental details including customer ID, name, car details, rental period, and total cost.
 
-Returning Cars: Simplified process for customers to return rented cars, with automatic updates to car availability.
+## Technology Stack
 
-Detailed Rental Information: Display comprehensive rental details including customer ID, name, car details, rental period, and total cost.
+- **Programming Language**: Java
+- **Development Environment**: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
 
-# Technology Stack
-Programming Language: Java
+## Getting Started
 
-Development Environment: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
+### Prerequisites
 
-# Prerequisites
-Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 8 or higher
+- A Java IDE or text editor
 
-A Java IDE or text editor
+### Installation
 
-
-
-# Installation
-Compile and Run: Open the project in your preferred IDE and run the Main.java file.
-
-# Usage Guide
-Renting a Car:
-Enter your name when prompted.
-
-View the list of available cars and enter the car ID you wish to rent.
-
-Specify the number of rental days.
-
-Confirm the rental to finalize the process.
-
-Returning a Car:
-Enter the car ID of the car you wish to return.
-
-The system will confirm the return and update the car’s availability.
-
-Exiting the System:
-
-Select the exit option to close the application.
+1. **Compile and Run**:
+   Open the project in your preferred IDE and run the Main.java file.
