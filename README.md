@@ -26,3 +26,8 @@ Welcome to the **Car Rental System** project! This system offers a seamless and 
 
 1. **Compile and Run**:
    Open the project in your preferred IDE and run the Main.java file.
+
+
+
+## Team Contributor
+**Harshita Dutta -** https://github.com/harshita-d12
